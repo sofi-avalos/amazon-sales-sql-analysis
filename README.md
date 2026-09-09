@@ -20,8 +20,10 @@ The specific file used for the analysis is:
 
 The dataset is available in two places:
 
-* **This repository:** `data/Amazon Sale Report.csv`
+* **This repository:** `data/Amazon Sale Report.zip`
 * **Original source:** [E-Commerce Sales Dataset — Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
+
+The CSV file is included inside the ZIP file in the `data/` folder.
 
 The dataset contains information such as:
 
@@ -119,7 +121,7 @@ amazon-sales-sql-analysis/
 ├── README.md
 │
 ├── data/
-│   └── Amazon Sale Report.csv
+│   └── Amazon Sale Report.zip
 │
 └── sql/
     └── amazon_sales_analysis_sql.sql
